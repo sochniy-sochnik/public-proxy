@@ -7,4 +7,4 @@
 188.74.210.21:6100:mcoydkhm:ef5xljo7b8gh 7
 45.155.68.129:8133:mcoydkhm:ef5xljo7b8gh 8
 154.95.36.199:6893:mcoydkhm:ef5xljo7b8gh 9
-109.237.99.35:8081:vpsville:vpsville 10
+109.237.99.35:8081:vpsville:vpsville Reserved
