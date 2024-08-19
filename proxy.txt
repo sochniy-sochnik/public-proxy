@@ -1,3 +1,5 @@
+109.237.99.35:4080 YouTube
+109.237.99.35:8081:sochnik:server Sochnik-server-other-site
 38.154.227.167:5868:mcoydkhm:ef5xljo7b8gh 1
 185.199.229.156:7492:mcoydkhm:ef5xljo7b8gh 2
 185.199.228.220:7300:mcoydkhm:ef5xljo7b8gh 3
@@ -6,5 +8,3 @@
 188.74.183.10:8279:mcoydkhm:ef5xljo7b8gh 6
 188.74.210.21:6100:mcoydkhm:ef5xljo7b8gh 7
 45.155.68.129:8133:mcoydkhm:ef5xljo7b8gh 8
-154.95.36.199:6893:mcoydkhm:ef5xljo7b8gh 9
-109.237.99.35:8081:sochnik:server Sochnik-server
